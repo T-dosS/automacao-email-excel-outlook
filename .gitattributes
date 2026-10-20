@@ -1,0 +1,6 @@
+# O Editor VBA importa .bas em Windows-1252 com CRLF: nao converter
+*.bas -text binary diff
+*.csv text eol=crlf
+*.mp4 binary
+*.gif binary
+*.png binary
